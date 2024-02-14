@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
